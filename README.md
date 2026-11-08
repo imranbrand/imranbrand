@@ -1,123 +1,75 @@
-# Hi, I'm Imran Hasan Badhon 👋
+# Imran Hasan Badhon
 
-### CSE Graduate | Software Development | Machine Learning | Data Science | Computer Vision
+### Software Developer | AI/ML Enthusiast | Computer Vision Researcher
 
-I'm a computer science graduate with a Master of Science from Jagannath University, specializing in Machine Learning, Data Science, and Computer Vision.
+I build practical web applications and explore AI-driven solutions, with a particular interest in machine learning, computer vision, and deep learning.
 
-I enjoy building practical software and AI-driven applications that combine programming, data, and intelligent systems.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Master of Science — Jagannath University
-- 🤖 Specialization: Machine Learning, Data Science & Computer Vision
-- 💻 Interested in Software Development, AI, ML, Data Science & Computer Vision
-- 🐍 Focused on Python and deep learning workflows
-- 🔬 Academic project: Image Caption Generator
-- 🌐 Interested in web development, APIs, databases and deployment
-- 🚀 Building practical software and AI projects
+[Portfolio](https://imran-hasan-badhon-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/imran-hasan-b4a4921a7/) · [GitHub](https://github.com/imranbrand) · [Email](mailto:imranhasan10022@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Programming
-Python · JavaScript · HTML5 · CSS3
+- Computer Science and Engineering graduate with a strong interest in software engineering and applied AI.
+- Exploring full-stack development, machine learning, and computer vision.
+- Building practical projects that connect technology with everyday needs.
+- Interested in research opportunities and further study in Computer Science.
 
-### AI / Machine Learning
-Machine Learning · Deep Learning · Computer Vision · CNN · LSTM · Xception
+## Featured Projects
 
-### Frameworks & Libraries
-TensorFlow · Keras · NumPy · Django · Flask
+### 1. Dhukpuk — শরীর-দর্পণ
+A Bangla-first health tracking and awareness project concept designed to help people record health indicators and understand their trends.
 
-### Database
-MySQL · PostgreSQL
+- **Focus:** Health tracking, accessible Bangla explanations, family profiles, and wellness awareness.
+- **Repository:** [dhukpuk-health-tracker](https://github.com/imranbrand/dhukpuk-health-tracker)
+- **Live project:** [Open Dhukpuk](https://dhukpuk-sreer-drpn.hatchable.site)
 
-### Web & APIs
-REST API · API Integration · Web Development
+### 2. Bangla Challenge Lab
+A Bangla interactive quiz experience designed around shareable results and social engagement.
 
-### Deployment
-Vercel · AWS · Heroku · cPanel
+- **Focus:** Interactive web experience, responsive UI, Bangla content, and social sharing.
+- **Repository:** [bangla-challenge-lab](https://github.com/imranbrand/bangla-challenge-lab)
+- **Live project:** [Open Bangla Challenge Lab](https://imranbrand.github.io/bangla-challenge-lab/)
 
-### Tools
-Postman · Chrome DevTools · Unit Testing
+### 3. Image Caption Generator Using CNN-LSTM
+An academic computer vision project that generates natural-language descriptions for images using a deep-learning pipeline.
 
----
+- **Focus:** Image feature extraction, sequence modelling, text preprocessing, and caption evaluation.
+- **Technologies:** Python, TensorFlow, Keras, CNN/Xception, LSTM, NumPy, NLP, BLEU evaluation.
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🤖 CaptionAI Studio PRO
+| Area | Technologies and concepts |
+|---|---|
+| Programming | Python, JavaScript, PHP |
+| Web development | HTML, CSS, Laravel, REST APIs |
+| AI and machine learning | Deep Learning, CNN, LSTM, Computer Vision |
+| ML frameworks | TensorFlow, Keras, NumPy |
+| Databases | MySQL, PostgreSQL |
+| Tools and deployment | Git, GitHub, Vercel, Render |
 
-AI Image Caption Generation System combining Computer Vision and Natural Language Processing.
+## Education
 
-**Technologies:** Python · TensorFlow · Keras · CNN · LSTM · Xception · NumPy · Flickr8k
+- **B.Sc. in Computer Science and Engineering** — Bangladesh University  
+  CGPA: 3.41 / 4.00
+- **M.Sc. in CSE (Professional)** — Jagannath University  
+  Current academic programme.
 
-**Highlights:**
-- Image feature extraction using Xception
-- Sequential caption generation using LSTM
-- Image and text preprocessing
-- Tokenization and padding
-- Model training and tuning
-- BLEU-score-based evaluation
+## Research Interests
 
----
-
-### 🌡️ Temperature Converter
-
-A responsive web application for converting temperatures between Celsius, Fahrenheit and Kelvin in real time.
-
-**Technologies:** HTML · CSS · JavaScript
-
-**Highlights:**
-- Real-time conversion
-- Input validation
-- Responsive UI
-- DOM manipulation
-- JavaScript event handling
-
----
-
-## 📚 Certifications
-
-- Python for Data Science and Machine Learning
-- Deep Learning Specialization
-
----
-
-## 🌱 Currently Focusing On
-
-- Software Development
-- Machine Learning
-- Deep Learning
 - Computer Vision
-- Data Science
-- Python Development
-- Web Applications
-- API Development
+- Deep Learning
+- Image Captioning
+- Natural Language Processing
+- Applied Machine Learning
+
+## Connect
+
+- **Portfolio:** https://imran-hasan-badhon-portfolio.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/imran-hasan-b4a4921a7/
+- **GitHub:** https://github.com/imranbrand
+- **Email:** imranhasan10022@gmail.com
 
 ---
 
-## 📫 Connect With Me
-
-🌐 Portfolio:  
-https://imran-hasan-badhon-portfolio.vercel.app/
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/imran-hasan-b4a4921a7/
-
-🐙 GitHub:  
-https://github.com/imranbrand
-
-📧 Email:  
-imranhasan10022@gmail.com
-
----
-
-## 💡 Development Philosophy
-
-> Build practical solutions, keep learning, and turn ideas into working software.
-
----
-
-⭐ Thanks for visiting my profile!
+*Build useful things. Keep learning. Turn ideas into working solutions.*
